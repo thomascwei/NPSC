@@ -1,1 +1,4 @@
 /.idea/*
+/*/*/*.cbp
+/*/*/bin/Debug/*.exe
+/*/*/obj/Debug/*.o
