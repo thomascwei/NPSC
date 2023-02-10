@@ -9,3 +9,6 @@ https://zerojudge.tw/
 
 https://hueyanchen.github.io
 
+## EasyX
+https://easyx.cn
+使用C開發小遊戲
