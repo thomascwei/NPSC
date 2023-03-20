@@ -2,3 +2,6 @@
 /*/*/*.cbp
 /*/*/bin/Debug/*.exe
 /*/*/obj/Debug/*.o
+/ZeroJudge/basic/*/main
+/leetcode/main
+/leetcode/main.c
