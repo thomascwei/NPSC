@@ -13,3 +13,21 @@ int main()
     }
     return 0;
 }
+/*
+#include <iostream>
+
+int main(int argc, char** argv) {
+  int myArray[500];
+  myArray[0] = 1;
+  int i = 0;
+  for (i = 1; i<500; i++) {
+    myArray[i] = (myArray[(i - 1)] + i);
+  }
+  int n;
+  while (std::cin >> n){
+    std::cout << myArray[(n - 1)]<<std::endl;;
+  }
+
+  return 0;
+}
+*/
